@@ -51,7 +51,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/kakao login-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"><img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></div>
 
-
 ## ⛔️ 주요 트러블 슈팅
 
 ### 1. 가격책정 단계별 뒤로가기 기능 구현
