@@ -1,6 +1,5 @@
 # 🍎 파인드애플(FindApple) FrontEnd
 
-
 <img src="https://i.ibb.co/BjYLwvp/cover.jpg"/>
 
 ## 💻 프로젝트 소개
